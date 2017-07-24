@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ubs.opsit.interviews.example.ExampleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-07-23T16:08:54" hostname="LAPTOP-OCE36CH0" time="0.141">
+  <properties/>
+  <testcase name="thisTestShouldPassIfYouHaveEverythingIsSetupCorrectly" classname="com.ubs.opsit.interviews.example.ExampleTest" time="0.141"/>
+  <system-out><![CDATA[2017-07-23T18:08:54.574 | est worker | Example              | DEBUG  - Hello 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
